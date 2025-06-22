@@ -1,5 +1,4 @@
 # java_loginpage
-# java_loginpage
 # Task to design a Login Page using NetBeans IDE:
 
 1. Create a New JFrame Form
